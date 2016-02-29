@@ -57,6 +57,7 @@ void settings() {
 }
 void setup() {
   background(255, 201, 0);
+  //background(255, 77, 205); //un rose bien dégueu si tu veux
   noLoop();
 }
 void draw() {
