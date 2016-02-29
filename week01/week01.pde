@@ -7,7 +7,7 @@
 
 //void setup() {
 
-//  background(255, 204, 0);
+//  background(95, 245, 15);
 //  //noStroke();
 //  noLoop();
 //  //frameRate(30);
@@ -56,7 +56,7 @@ void settings() {
   size(1200, 800, P2D);
 }
 void setup() {
-  background(255, 201, 0);
+  background(15, 245, 95);
   //background(255, 77, 205); //un rose bien dégueu si tu veux
   noLoop();
 }
